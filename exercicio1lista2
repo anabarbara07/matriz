@@ -1,5 +1,5 @@
-/*01- Criar um algoritmo que possa armazenar as alturas de dez atletas de cinco delegaÁıes que
-participar„o dos jogos de ver„o. Imprimir a maior altura de cada delegaÁ„o.*/
+/*01- Criar um algoritmo que possa armazenar as alturas de dez atletas de cinco delega√ß√µes que
+participar√£o dos jogos de ver√£o. Imprimir a maior altura de cada delega√ß√£o.*/
 
 #include<stdio.h>
 
